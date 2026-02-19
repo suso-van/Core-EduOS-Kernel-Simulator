@@ -34,6 +34,7 @@ EduOS is organized into modular subsystems:
 Each subsystem models OS policy decisions independently while interacting through
 a central kernel abstraction.
 
+
 ## How to Run
 ```bash
 git clone https://github.com/<your-username>/EduOS-Kernel-Simulator
